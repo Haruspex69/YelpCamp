@@ -53,9 +53,9 @@ app.use(indexRoutes);
 app.use('/campgrounds', campgroundRoutes);
 app.use('/campgrounds/:id/comments', commentRoutes);
 
-// setInterval(function(){
-//   http.get(''); 
-// }, 300000);
+setInterval(function(){
+  http.get('https://evening-fortress-97979.herokuapp.com/'); 
+}, 300000);
 
 //============================
 //LISTENER

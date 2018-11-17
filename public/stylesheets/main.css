@@ -1,0 +1,22 @@
+.bg-dark {
+    margin-bottom: 50px;
+}
+
+hr {
+    opacity: 0;
+}
+
+.caption {
+    padding: 10px;
+}
+#marg-bt {
+    margin-bottom: 25px;
+}
+
+.deleteForm {
+    display: inline;
+}
+
+#btn-spacer {
+    margin-left: 10px;
+}
